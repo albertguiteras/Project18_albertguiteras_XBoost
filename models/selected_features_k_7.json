@@ -1,0 +1,20 @@
+{
+    "X_train_con_outliers.csv": [
+        "Pregnancies",
+        "Glucose",
+        "SkinThickness",
+        "Insulin",
+        "BMI",
+        "DiabetesPedigreeFunction",
+        "Age"
+    ],
+    "X_train_sin_outliers.csv": [
+        "Pregnancies",
+        "Glucose",
+        "BloodPressure",
+        "SkinThickness",
+        "Insulin",
+        "DiabetesPedigreeFunction",
+        "Age"
+    ]
+}
